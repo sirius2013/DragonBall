@@ -1,5 +1,5 @@
 # DragonBall
-This app is 100% open source. Feel free to clone and modify it as much as you want.
+This app is 100% open source. Feel free to clone and modify it as much as you want
 
 # Showcase
 - https://youtu.be/NUwueUPJs7c
